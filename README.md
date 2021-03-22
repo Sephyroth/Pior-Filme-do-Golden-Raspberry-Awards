@@ -33,7 +33,7 @@ Após o servidor esta up rode o arquivo FilmControllerTest.java
 
 #### 🎲 Teste via Swagger ui
 
-Você pode ver a documentação da API pelo endereço - acesse http://127.0.0.1:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+Você pode ver a documentação da API pelo endereço - acesse http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
 
 ## 🦸 Autor
 
