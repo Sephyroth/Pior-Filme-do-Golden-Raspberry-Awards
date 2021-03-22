@@ -25,9 +25,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### 🎲 Rodando o Teste
 
-# O servidor inciará na porta:8080 - acesse http://localhost:8080
-
-Para testar o serviço primeiro execute a classe WorstFilmeGoldenRaspberryApplication.java
+Para testar o serviço primeiro execute a classe WorstFilmeGoldenRaspberryApplication.java. O servidor inciará na porta:8080 - acesse http://localhost:8080
 > Veja o arquivo  [WorstFilmeGoldenRaspberryApplication.java](https://github.com/Sephyroth/Pior-Filme-do-Golden-Raspberry-Awards/tree/master/src/main/java/com/test/worstfilmgoldenraspberry/WorstFilmeGoldenRaspberryApplication.java)
 
 Após o servidor esta up rode o arquivo FilmControllerTest.java
