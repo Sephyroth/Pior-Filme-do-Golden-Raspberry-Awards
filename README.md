@@ -23,6 +23,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[Spring-boot](https://spring.io/projects/spring-boot)**
 
+#### 🎲 Rodando o Teste
+
+# O servidor inciará na porta:8080 - acesse http://localhost:8080
+
+Para testar o serviço primeiro execute a classe WorstFilmeGoldenRaspberryApplication.java
+> Veja o arquivo  [WorstFilmeGoldenRaspberryApplication.java](https://github.com/Sephyroth/Pior-Filme-do-Golden-Raspberry-Awards/tree/master/src/main/java/com/test/worstfilmgoldenraspberry/WorstFilmeGoldenRaspberryApplication.java)
+
+Após o servidor esta up rode o arquivo FilmControllerTest.java
+> Veja o arquivo  [FilmControllerTest.java](https://github.com/Sephyroth/Pior-Filme-do-Golden-Raspberry-Awards/tree/master/src/test/java/com/test/worstfilmgoldenraspberry/integration/FilmControllerTest.java)
+
+#### 🎲 Teste via Swagger ui
+
+Você pode ver a documentação da API pelo endereço - acesse http://127.0.0.1:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+
 ## 🦸 Autor
 
 <a href="https://github.com/Sephyroth">
