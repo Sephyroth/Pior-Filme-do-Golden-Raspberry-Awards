@@ -7,7 +7,7 @@ import com.test.worstfilmgoldenraspberry.domain.Producer;
 import com.test.worstfilmgoldenraspberry.domain.Studio;
 import com.test.worstfilmgoldenraspberry.dto.ProducerDTO;
 
-interface FilmService {
+public interface FilmService {
 
 	List<Film> getAllWinningFilms();
 	
